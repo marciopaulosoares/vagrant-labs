@@ -1,6 +1,9 @@
 ## Enable vagrant in windows subsystem
-$ export 
+
+https://www.vagrantup.com/docs/other/wsl
+
 ~~~
+$ export 
 VAGRANT_WSL_ENABLE_WINDOWS_ACCESS="1"
 ~~~
 ~~~
