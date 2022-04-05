@@ -29,3 +29,6 @@ Vagrant.configure(2) do |config|
 	end
 end
 ~~~
+
+### Vagrant wsl erro ssh
+vagrant ssh -- -vvv
