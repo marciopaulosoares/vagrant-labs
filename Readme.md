@@ -32,3 +32,4 @@ end
 
 ### Vagrant wsl erro ssh
 vagrant ssh -- -vvv
+chmod 0600 (for adjust private key permissions)
